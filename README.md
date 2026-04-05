@@ -1,5 +1,3 @@
-# ecommerce-sales-analysis
-End-to-end data analysis project using Python and Power BI
 # 📊 E-commerce Sales Analysis & Dashboard
 
 ## 🚀 Project Overview
